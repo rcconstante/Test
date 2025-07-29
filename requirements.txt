@@ -1,0 +1,10 @@
+Flask
+Flask-CORS
+tensorflow
+keras
+numpy
+opencv-python
+Pillow
+werkzeug
+gunicorn
+python-multipart
